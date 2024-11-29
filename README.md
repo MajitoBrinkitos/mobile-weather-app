@@ -81,3 +81,9 @@ Join our community of developers creating universal apps.
   -Provides tomorrow's date, max. temperature and min. temperature
 #### Background Image:
   -To provide a more interactive user experience, based on the city/country, the background image changes for a day or night weather.
+
+### License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### Contact
+Maria Jose Mejia -[mcvef2013@gmail.com](mailto:mcvef2013@gmail.com)
