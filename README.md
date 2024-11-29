@@ -4,9 +4,9 @@
 This is a minimalist weather mobile app designed to inform the users about the data they are exactly looking for. 
 
 ## Table of Contents
-1. [Installation] (#installation)
-2. [Usage] (#usage)
-3. [Features] (#features)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Features](#features)
 
 ### Installation Expo
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -60,4 +60,12 @@ Join our community of developers creating universal apps.
 
 1. clone this repository
    ```bash
-   git clone 
+   git clone https://github.com/MajitoBrinkitos/mobile-weather-app.git
+
+2. Navigate to the project directory
+   ``` bash
+   cd yourproject
+
+3. Install dependencies
+   ``` bash
+   npm install
