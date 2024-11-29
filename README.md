@@ -1,10 +1,15 @@
 # Weather You Go Mobile App
 
-## Welcome to your Expo app 👋
+## Description
+This is a minimalist weather mobile app designed to inform the users about the data they are exactly looking for. 
 
+## Table of Contents
+1. [Installation] (#installation)
+2. [Usage] (#usage)
+3. [Features] (#features)
+
+### Installation Expo
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
 
 1. Install dependencies
 
@@ -50,3 +55,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+### Installation GitHub
+
+1. clone this repository
+   ```bash
+   git clone 
