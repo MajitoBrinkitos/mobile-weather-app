@@ -5,7 +5,7 @@ This is a minimalist weather mobile app designed to inform the users about the d
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage](#usage)
+  1.2. [Installation Expo](#installation-expo)
 3. [Features](#features)
 
 ### Installation Expo
@@ -69,3 +69,5 @@ Join our community of developers creating universal apps.
 3. Install dependencies
    ``` bash
    npm install
+
+### Features
