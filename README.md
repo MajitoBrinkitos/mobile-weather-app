@@ -72,12 +72,12 @@ Join our community of developers creating universal apps.
    npm install
 
 ### Features
-- Search:
+#### Search:
   -The Search feature allows the user to seek a location by city or country.
-- Weather Info:
+#### Weather Info:
   -The main goal is to offer a minimalist experience. Therefore, the weather data is precise:
-  *city, country, population, timezone, temperature
--Tomorrow's Forecast:
+  -city, country, population, timezone, temperature
+#### Tomorrow's Forecast:
   -Provides tomorrow's date, max. temperature and min. temperature
--Background Image:
+#### Background Image:
   -To provide a more interactive user experience, based on the city/country, the background image changes for a day or night weather.
