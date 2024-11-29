@@ -5,8 +5,9 @@ This is a minimalist weather mobile app designed to inform the users about the d
 
 ## Table of Contents
 1. [Installation](#installation)
-  1.2. [Installation Expo](#installation-expo)
-3. [Features](#features)
+2. [Installation Expo](#installation-expo)
+3. [Installation GitHub](#installation-github)
+4. [Features](#features)
 
 ### Installation Expo
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -71,3 +72,12 @@ Join our community of developers creating universal apps.
    npm install
 
 ### Features
+- Search:
+  -The Search feature allows the user to seek a location by city or country.
+- Weather Info:
+  -The main goal is to offer a minimalist experience. Therefore, the weather data is precise:
+  *city, country, population, timezone, temperature
+-Tomorrow's Forecast:
+  -Provides tomorrow's date, max. temperature and min. temperature
+-Background Image:
+  -To provide a more interactive user experience, based on the city/country, the background image changes for a day or night weather.
