@@ -71,6 +71,11 @@ Join our community of developers creating universal apps.
    ``` bash
    npm install
 
+4. Navigate to the app folder. Here, the React Native files that have the React Natives are
+   ```bash
+   /app/_layout.tsx
+   /app/index.tsx
+
 ### Features
 #### Search:
   -The Search feature allows the user to seek a location by city or country.
