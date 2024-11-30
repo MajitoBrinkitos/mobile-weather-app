@@ -3,6 +3,8 @@
 ## Description
 This is a minimalist weather mobile app designed to inform the users about the data they are exactly looking for. 
 
+![Screenshot 2024-11-29 161729](https://github.com/user-attachments/assets/9894520a-82ef-4ecc-b0ff-7dc48a1e7924)
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Installation Expo](#installation-expo)
