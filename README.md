@@ -89,8 +89,10 @@ Join our community of developers creating universal apps.
 
 ### Preview
 #### Example Day Location
--![Screenshot 2024-11-29 161151](https://github.com/user-attachments/assets/d64de9b3-fad3-4f55-bd0e-4bbe0da00faa)
+![Screenshot 2024-11-29 161151](https://github.com/user-attachments/assets/d64de9b3-fad3-4f55-bd0e-4bbe0da00faa)
 
+#### Example Night Location
+![Screenshot 2024-11-29 161527](https://github.com/user-attachments/assets/fe357495-4ffb-4a53-bf8f-a2ffd761009e)
 
 ### License
 Distributed under the MIT License. See `LICENSE` for more information.
