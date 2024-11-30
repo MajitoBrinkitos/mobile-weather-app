@@ -87,6 +87,11 @@ Join our community of developers creating universal apps.
 #### Background Image:
   -To provide a more interactive user experience, based on the city/country, the background image changes for a day or night weather.
 
+### Preview
+#### Example Day Location
+-![Screenshot 2024-11-29 161151](https://github.com/user-attachments/assets/d64de9b3-fad3-4f55-bd0e-4bbe0da00faa)
+
+
 ### License
 Distributed under the MIT License. See `LICENSE` for more information.
 
